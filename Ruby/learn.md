@@ -13,5 +13,3 @@
 * [Download and install Ruby](https://www.ruby-lang.org/en/) *
 * [Try Ruby in Your Browser](http://tryruby.org) *
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)
-
-    Happy Coding!!
