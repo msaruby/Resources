@@ -15,4 +15,4 @@
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)
 
 ```
-"Happy Coding!!"```
+Happy Coding```
