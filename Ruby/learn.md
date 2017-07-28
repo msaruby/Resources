@@ -9,11 +9,10 @@
 * [Programming Ruby](https://pragprog.com/book/ruby/programming-ruby)
     - also known as the Pickaxe book; it seems to be known as *the* Ruby book. Good for reference and digging deeper, but not free.
 * [Codeacademy's Ruby track](https://www.codecademy.com/learn/ruby) *
-* [Ruby Core API Documentation][ruby-8]
-* [Download and install Ruby][ruby-2]
-* [Ruby Basic Tutorial][ruby-13]
-* [Learn To Program][ruby-11] *
+* [Ruby Core API Documentation](http://ruby-doc.org/core-2.4.1/)
+* [Download and install Ruby](https://www.ruby-lang.org/en/) *
+* [Try Ruby in Your Browser](http://tryruby.org) *
+* [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)
 
-```ruby
-puts "Happy Coding!!"
 ```
+"Happy Coding!!"```
